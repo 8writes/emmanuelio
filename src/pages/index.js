@@ -13,7 +13,7 @@ const IndexPage = () => (
           Emmanuel Chisom
         </h1>
         <div className="flex justify-center">
-          <h2 className="text-center font-righteous  text-3xl md:text-4xl ml-0 hover:scale-105 ease-out duration-200">
+          <h2 className="text-center font-righteous  text-2xl md:text-4xl ml-0 hover:scale-105 ease-out duration-200">
             Frontend Developer.
           </h2>
 
